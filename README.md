@@ -25,4 +25,4 @@ I use this GitHub profile to document projects, experiment with technologies, an
 
 📌 Currently exploring opportunities for a final-year internship (PFE).
 
- Connect with me on [LinkedIn](www.linkedin.com/in/wala-hassine) or by mail [Gmail](Walahssine@gmail.com)
+ Connect with me on [LinkedIn](www.linkedin.com/in/wala-hassine) or by [Mail](Walahssine@gmail.com)
